@@ -1,3 +1,5 @@
+![profile-icon](icon.jpg)
+
 # About
 akihanari's portfolio site
 
