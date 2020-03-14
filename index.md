@@ -29,4 +29,6 @@ akihanari's portfolio site
 - [Twitter](https://twitter.com/akihanari)
 - [Mail](akihanari@gmail.com)
 
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/akihanari?ref_src=twsrc%5Etfw">Tweets by akihanari</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
