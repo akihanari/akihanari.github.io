@@ -11,7 +11,7 @@ akihanari's portfolio site
 - Languages: Python, C, Java, JavaScript, Processing(p5.js), HTML5, CSS
 - Frameworks: Django, Bootstrap
 - Tools: Git, GitHub
-- Certification: AWS SAA, CCNP, Registered Information Security Specialist Examination, Network Specialist Examination, Information Technology Service Manager Examination
+- Certifications: AWS SAA, CCNP, Registered Information Security Specialist Examination, Network Specialist Examination, Information Technology Service Manager Examination
 
 ## Works
 - [GitHub](https://akihanari.github.io/)
