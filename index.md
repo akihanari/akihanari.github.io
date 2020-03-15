@@ -6,7 +6,8 @@ akihanari's portfolio site
 ## Profile
 - name: aki hanari(秋 花里)
 - age: 26
-- Nationality： Japanese
+- nationality： Japanese
+- hobbies: drawing, composition
 
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
@@ -18,6 +19,7 @@ akihanari's portfolio site
 ## Works
 - [GitHub](https://akihanari.github.io/)
 - [Qiita](https://qiita.com/akihanari)
+- [note(blog)](https://note.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 
