@@ -38,7 +38,7 @@ akihanari's portfolio site
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/)
   - [GitHub](https://github.com/jmhobbs/cultofthepartyparrot.com)
 
-![parrot gif](https://github.com/akihanari/akihanari.github.io/blob/images/192_192.gif)
+![parrot gif](img/192_192.gif)
 
 
 ## Competitive programming
