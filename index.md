@@ -1,4 +1,4 @@
-![profile-icon](icon.jpg)
+![profile-icon](img/icon2.png)
 
 # About
 akihanari's portfolio site
@@ -26,7 +26,7 @@ akihanari's portfolio site
 - [Slackbot / for-ni-to (Python)](https://github.com/akihanari/Slackbot)
 
 
-<img src="https://github.com/akihanari/Slackbot/blob/images/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
+<img src="img/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
 
 - bubble(p5.js)  
 <iframe src="https://www.openprocessing.org/sketch/856669/embed/" width="600" height="450"></iframe>  
