@@ -23,10 +23,13 @@ akihanari's portfolio site
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 
-- bubble  
+- [Slackbot / for-ni-to (Python)](https://github.com/akihanari/Slackbot)
+<img src="https://github.com/akihanari/Slackbot/blob/images/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
+
+- bubble(p5.js)  
 <iframe src="https://www.openprocessing.org/sketch/856669/embed/" width="600" height="450"></iframe>  
 
-- Parrot  
+- Parrot(p5.js)  
 <iframe src="https://www.openprocessing.org/sketch/857901/embed/" width="600" height="450"></iframe>  
   
 
