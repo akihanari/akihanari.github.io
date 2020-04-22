@@ -22,9 +22,18 @@ akihanari's portfolio site
 - [note(blog)](https://note.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
+- [gif-amabie](https://akihanari.github.io/gif-amabie/)
+  - Language: HTML5, CSS
+  - Framework: Bootstrap
 
-- [Slackbot / for-ni-to (Python)](https://github.com/akihanari/Slackbot)
+- [Django-Website](https://ha-workshop.herokuapp.com/)
+  - Language: Python, HTML5, CSS
+  - Framework: Django, Bootstrap
+  - DB: PostgreSQL
+  - Tutorial: [Django Girls Tutorial](https://tutorial.djangogirls.org/ja/)
 
+- [Slackbot / for-ni-to](https://github.com/akihanari/Slackbot)
+  - Language: Python
 
 <img src="img/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
 
