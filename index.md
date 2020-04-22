@@ -22,7 +22,7 @@ akihanari's portfolio site
 - [note(blog)](https://note.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
-- [gif-amabie](https://akihanari.github.io/gif-amabie/)
+- [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
   - Language: HTML5, CSS
   - Framework: Bootstrap
 
@@ -36,12 +36,7 @@ akihanari's portfolio site
   - Language: Python
 
 <img src="img/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
-
-- bubble(p5.js)  
-<iframe src="https://www.openprocessing.org/sketch/856669/embed/" width="600" height="450"></iframe>  
-
-- Parrot(p5.js)  
-<iframe src="https://www.openprocessing.org/sketch/857901/embed/" width="600" height="450"></iframe>  
+ 
 
 ## OSS Contribute
 - [Cult of the Party Parrot](https://cultofthepartyparrot.com/)
