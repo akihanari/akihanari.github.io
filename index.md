@@ -1,25 +1,23 @@
 ![profile-icon](img/icon2.png)
 
 # About
-akihanari's portfolio site
+choco_py3's portfolio site
 
 ## Profile
-- name: aki hanari(秋 花里)
-- age: 26
-- nationality： Japanese
-- hobbies: drawing, composition
+- 名前: choco_py3
+- 年齢: 26
+- 趣味: イラスト、写真
 
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
-- Languages: Python, C, Java, JavaScript, Processing(p5.js), HTML5, CSS
-- Frameworks: Django, Bootstrap
-- Tools: Git, GitHub
-- Certifications: AWS SAA, CCNP, Registered Information Security Specialist Examination, Network Specialist Examination, Information Technology Service Manager Examination
+- 言語: Python, C, Processing(p5.js), HTML5, CSS
+- フレームワーク: Django, Bootstrap
+- ツール: Git, GitHub
+- 資格: AWS SAA, CCNP, 情報処理安全確保支援士, ネットワークスペシャリスト, ITサービスマネージャ
 
 ## Works
 - [GitHub](https://akihanari.github.io/)
 - [Qiita](https://qiita.com/akihanari)
-- [note(blog)](https://note.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 - [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
