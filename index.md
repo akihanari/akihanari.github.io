@@ -48,9 +48,9 @@ choco_py3's portfolio site
 - [paiza](https://paiza.jp/challenges/glicko_rating_share/hg0ZADOUtamAhhCCnh6UzExEa8VrNChOvu2qsOS57eg?133631980)
 
 ## Contact
-- [Twitter](https://twitter.com/akihanari)
+- [Twitter](https://twitter.com/choco_py3)
 - [Mail](akihanari@gmail.com)
 
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/akihanari?ref_src=twsrc%5Etfw">Tweets by akihanari</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/choco_py3?ref_src=twsrc%5Etfw">Tweets by choco_py3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
