@@ -34,7 +34,7 @@ choco_py3's portfolio site
 - [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
   - 言語: Python, HTML5, CSS
   - フレームワーク: Flask, Bootstrap
-  - 概要: ドット絵をランダムに生成するサイトです。
+  - 概要: ドット絵をランダムに生成することができるサイトです。
 <img src="img/c-demo.png" alt="demo image" title="c-demo.png" width="480" height="324">
 
 - [Django-Website](https://ha-workshop.herokuapp.com/)
