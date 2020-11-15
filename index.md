@@ -20,9 +20,14 @@ choco_py3's portfolio site
 - [Qiita](https://qiita.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
+
 - [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
   - Language: HTML5, CSS
   - Framework: Bootstrap
+  
+- [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
+  - Language: Python, HTML5, CSS
+  - Framework: Flask, Bootstrap
 
 - [Django-Website](https://ha-workshop.herokuapp.com/)
   - Language: Python, HTML5, CSS
@@ -45,7 +50,6 @@ choco_py3's portfolio site
 
 ## Competitive programming
 - [AtCoder](https://atcoder.jp/users/akihanari)
-- [paiza](https://paiza.jp/challenges/glicko_rating_share/hg0ZADOUtamAhhCCnh6UzExEa8VrNChOvu2qsOS57eg?133631980)
 
 ## Contact
 - [Twitter](https://twitter.com/choco_py3)
