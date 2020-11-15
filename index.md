@@ -15,7 +15,7 @@ choco_py3's portfolio site
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
 - 言語: Python, C, Processing(p5.js), HTML5, CSS
-- フレームワーク: Django, Bootstrap
+- フレームワーク: Flask, Django, Bootstrap
 - ツール: Git, GitHub
 - 資格: AWS SAA, CCNP, 情報処理安全確保支援士, ネットワークスペシャリスト, ITサービスマネージャ
 
