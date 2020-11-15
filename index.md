@@ -29,20 +29,20 @@ choco_py3's portfolio site
   - 言語: HTML5, CSS
   - フレームワーク: Bootstrap
   - 概要: Slackの絵文字などに使用できるアマビエのGIFファイルを配布しています。
-<img src="img/b-demo.png" alt="demo image" title="b-demo.png" width="480" height="307">
-
+<img src="img/b-demo.png" alt="demo image" title="b-demo.png" width="480" height="307"
+<br>
 - [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
   - 言語: Python, HTML5, CSS
   - フレームワーク: Flask, Bootstrap
   - 概要: ドット絵をランダムに生成します。
 <img src="img/c-demo.png" alt="demo image" title="c-demo.png" width="480" height="324">
-
+<br>
 - [Django-Website](https://ha-workshop.herokuapp.com/)
   - 言語: Python, HTML5, CSS
   - フレームワーク: Django, Bootstrap
   - DB: PostgreSQL
   - 参考チュートリアル: [Django Girls Tutorial](https://tutorial.djangogirls.org/ja/)
-
+<br>
 - [Slackbot / for-ni-to](https://github.com/akihanari/Slackbot)
   - 言語: Python
   - 概要: botに話しかけると天気予報やQiita記事検索、雑談などをすることができます。
