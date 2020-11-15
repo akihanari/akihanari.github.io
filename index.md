@@ -28,10 +28,12 @@ choco_py3's portfolio site
 - [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
   - 言語: HTML5, CSS
   - フレームワーク: Bootstrap
-  
+<img src="img/b-demo.png" alt="demo image" title="b-demo.png" width="480" height="307">
+
 - [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
   - 言語: Python, HTML5, CSS
   - フレームワーク: Flask, Bootstrap
+<img src="img/c-demo.png" alt="demo image" title="c-demo.png" width="480" height="324">
 
 - [Django-Website](https://ha-workshop.herokuapp.com/)
   - 言語: Python, HTML5, CSS
