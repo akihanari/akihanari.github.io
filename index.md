@@ -43,7 +43,6 @@ choco_py3's portfolio site
 
 - [Slackbot / for-ni-to](https://github.com/akihanari/Slackbot)
   - 言語: Python
-
 <img src="img/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
  
 
