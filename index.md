@@ -8,6 +8,10 @@ choco_py3's portfolio site
 - 年齢: 26
 - 趣味: イラスト、写真
 
+## Career
+- ネットワークエンジニアとして、約3年間構築業務を担当していました。
+- 詳細設計/テスト/ネットワーク構築など
+
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
 - 言語: Python, C, Processing(p5.js), HTML5, CSS
@@ -22,21 +26,21 @@ choco_py3's portfolio site
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 
 - [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
-  - Language: HTML5, CSS
-  - Framework: Bootstrap
+  - 言語: HTML5, CSS
+  - フレームワーク: Bootstrap
   
 - [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
-  - Language: Python, HTML5, CSS
-  - Framework: Flask, Bootstrap
+  - 言語: Python, HTML5, CSS
+  - フレームワーク: Flask, Bootstrap
 
 - [Django-Website](https://ha-workshop.herokuapp.com/)
-  - Language: Python, HTML5, CSS
-  - Framework: Django, Bootstrap
+  - 言語: Python, HTML5, CSS
+  - フレームワーク: Django, Bootstrap
   - DB: PostgreSQL
-  - Tutorial: [Django Girls Tutorial](https://tutorial.djangogirls.org/ja/)
+  - 参考チュートリアル: [Django Girls Tutorial](https://tutorial.djangogirls.org/ja/)
 
 - [Slackbot / for-ni-to](https://github.com/akihanari/Slackbot)
-  - Language: Python
+  - 言語: Python
 
 <img src="img/demo.gif" alt="demo image" title="demo.gif" width="480" height="320">
  
