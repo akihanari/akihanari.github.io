@@ -17,7 +17,7 @@ choco_py3's portfolio site
 - 言語: Python, C, Processing(p5.js), HTML5, CSS
 - フレームワーク: Flask, Django, Bootstrap
 - ツール: Git, GitHub
-- 資格: AWS SAA, CCNP, 情報処理安全確保支援士, ネットワークスペシャリスト, ITサービスマネージャ
+- 資格: AWS SAA, CCNP, 情報処理安全確保支援士(合格), ネットワークスペシャリスト, ITサービスマネージャ
 
 ## Works
 - [GitHub](https://akihanari.github.io/)
