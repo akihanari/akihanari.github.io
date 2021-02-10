@@ -5,7 +5,7 @@ choco_py3's portfolio site
 
 ## Profile
 - 名前: choco_py3
-- 年齢: 26
+- 年齢: 27
 - 趣味: イラスト、写真
 
 ## Career
@@ -14,31 +14,36 @@ choco_py3's portfolio site
 
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
-- 言語: Python, C, Processing(p5.js), HTML5, CSS
+- 言語: Python, C, Processing(p5.js), JavaScript, HTML5, CSS
 - フレームワーク: Flask, Django, Bootstrap
 - ツール: Git, GitHub
 - 資格: AWS SAA, CCNP, 情報処理安全確保支援士(合格), ネットワークスペシャリスト, ITサービスマネージャ
 
 ## Works
-- [GitHub](https://akihanari.github.io/)
+- [GitHub](https://github.com/akihanari)
 - [Qiita](https://qiita.com/akihanari)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 
+- [Space Cat Love!(Website)](https://akihanari.github.io/hackathon_01/)
+  - 言語: HTML5, CSS3, Javascript(p5.js)
+  - 概要: Space Catとお絵かきできるアプリです。
+
 - [gif-amabie(Website)](https://akihanari.github.io/gif-amabie/)
-  - 言語: HTML5, CSS
+  - 言語: HTML5, CSS3
   - フレームワーク: Bootstrap
   - 概要: Slackの絵文字などに使用できるアマビエのGIFファイルを配布しています。
 <img src="img/b-demo.png" alt="demo image" title="b-demo.png" width="480" height="307">
 
-- [Pixel art generator(Website)](https://flaskandheroku.herokuapp.com/)
-  - 言語: Python, HTML5, CSS
+- [choco_py3's contents(Website)](https://flaskandheroku.herokuapp.com/)
+  - 言語: Python, HTML5, CSS3
   - フレームワーク: Flask, Bootstrap
-  - 概要: ドット絵をランダムに生成することができるサイトです。
+  - 概要: Pixel art generator→ドット絵をランダムに生成　p5.js gallery→p5.jsの作品集
+  
 <img src="img/c-demo.png" alt="demo image" title="c-demo.png" width="480" height="324">
 
 - [Django-Website](https://ha-workshop.herokuapp.com/)
-  - 言語: Python, HTML5, CSS
+  - 言語: Python, HTML5, CSS3
   - フレームワーク: Django, Bootstrap
   - DB: PostgreSQL
   - 参考チュートリアル: [Django Girls Tutorial](https://tutorial.djangogirls.org/ja/)
