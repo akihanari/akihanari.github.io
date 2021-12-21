@@ -5,13 +5,13 @@ choco_py3's portfolio site
 
 ## Profile
 - 名前: choco_py3
-- 年齢: 27
+- 年齢: 28
 - 趣味: イラスト、写真
 
 ## Career
 - ネットワークエンジニアとして、約3年半設計構築業務を担当していました。
 - 基本設計/詳細設計/テスト/ネットワーク構築など
-- L2/L3SW, FW等(Cisco,富士通）
+- L2/L3SW, FW等(Cisco,富士通製品）
 
 ## Skills
 - OS: Windows7/8/10, MacOSX, Ubuntu
@@ -23,6 +23,7 @@ choco_py3's portfolio site
 ## Works
 - [GitHub](https://github.com/akihanari)
 - [Qiita](https://qiita.com/akihanari)
+- [Blog](https://choco-py3.hatenablog.com)
 - [FreeCodeCamp_Project/TributePage](https://codepen.io/akihanari/pen/NWqYOgP)
 - [OpenProcessing](https://www.openprocessing.org/user/215370)
 
